@@ -21,8 +21,8 @@ Welcome to my Github page! I am JAdpp and I am currently doing my digital humani
 
 #### 🌻 I am studying 🌻 :
 - IELTS
-- Python
-- Frontend
+- LLM
+- Natural Language Programming 
 
 #### :computer: Programming languages and tools: 
 <p>
