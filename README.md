@@ -37,5 +37,4 @@ Welcome to my Github page! I am JAdpp and I am currently finishing my digital hu
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAdpp)
 ![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D26814%26project%3D%26in=0)
