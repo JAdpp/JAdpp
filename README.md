@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.cn/incareer/in/yangming-zhang-38b8421a9/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jadppcc@gmail.com)
 
-Welcome to my Github page! I am JAdpp and I am currently finishing my digital humanities doctoral degree at Wuhan University!  
+Welcome to my Github page! I am JAdpp and I am currently doing my digital humanities doctoral degree at Wuhan University!  
 
 <img align="right" alt="img" src="https://github.com/JAdpp/JAdpp/blob/main/bloghead.jpg" width="50%" height="auto" />
 
@@ -19,7 +19,7 @@ Welcome to my Github page! I am JAdpp and I am currently finishing my digital hu
 - Stable Diffusion
 - AI Agents
 
-#### 🌻 I am studying 🌻
+#### 🌻 I am studying 🌻 :
 - IELTS
 - Python
 - Frontend
