@@ -10,8 +10,8 @@ Welcome to my Github page! I am JAdpp and I am currently doing my digital humani
 
 
 #### 🌱 Things I am currently working on 🌱 : 
-- Taking online courses about Machine Learning and LLM 
-- Digital Humanities Projects
+- Taking online courses about machine learning and LLM 
+- Digital Humanities Research
  
  
 #### ⚡ Things recent ones I'm interested in ⚡ : 
