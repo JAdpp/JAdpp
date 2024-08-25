@@ -20,8 +20,7 @@ Welcome to my Github page! I am JAdpp and I am currently doing my digital humani
 - AI Agents
 
 #### 🌻 I am studying 🌻 :
-- IELTS
-- LLM
+- LLM Application
 - Natural Language Programming 
 
 #### :computer: Programming languages and tools: 
