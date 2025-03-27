@@ -9,19 +9,19 @@ Welcome to my Github page! I am JAdpp and I am currently doing my digital humani
 <img align="right" alt="img" src="https://github.com/JAdpp/JAdpp/blob/main/bloghead.jpg" width="50%" height="auto" />
 
 
-#### 🌱 Things I am currently working on 🌱 : 
-- Taking online courses about machine learning and LLM 
+#### 🌱 Things I am currently working on 🌱 :  
+- HCI Research
 - Digital Humanities Research
  
  
 #### ⚡ Things recent ones I'm interested in ⚡ : 
-- LLM development
-- Stable Diffusion
-- AI Agents
+- LLM Application development
+- LLM Agents development
+- LLM Game development
 
 #### 🌻 I am studying 🌻 :
-- LLM Application
-- Natural Language Programming 
+- LLM development stack
+- Research/experiment skills
 
 #### :computer: Programming languages and tools: 
 <p>
