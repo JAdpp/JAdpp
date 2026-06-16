@@ -20,7 +20,7 @@ Welcome to my Github page! I am JAdpp and I am currently doing my digital humani
 - AI Native Game Research
 
 #### 🌻 I am studying 🌻 :
-- LLM Development stack
+- LLM Development Stack
 - Research/Experiment Skills
 
 #### :computer: Programming languages and tools: 
