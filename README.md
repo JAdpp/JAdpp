@@ -15,12 +15,12 @@ Welcome to my Github page! I am JAdpp and I am currently doing my digital humani
  
  
 #### ⚡ Things recent ones I'm interested in ⚡ : 
-- LLM Application development
-- LLM Agents development
-- LLM Game development
+- LLM Application Development
+- LLM Agents Research
+- AI Native Game Research
 
 #### 🌻 I am studying 🌻 :
-- LLM development stack
+- LLM Development stack
 - Research/experiment skills
 
 #### :computer: Programming languages and tools: 
