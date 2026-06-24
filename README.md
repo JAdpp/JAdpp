@@ -1,5 +1,4 @@
-### Hi there 👋 
-### This is JAdpp!
+### Hi there 👋
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.cn/incareer/in/yangming-zhang-38b8421a9/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jadppcc@gmail.com)
