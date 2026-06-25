@@ -9,18 +9,18 @@ Welcome to my Github page! I am JAdpp and I am currently doing my HCI and digita
 
 
 #### 🌱 Things I am currently working on 🌱 :  
-- HCI Research
-- Digital Humanities Research
- 
+- HCI Topics with Cultural Revitalization and Well-being
+- Digital Culture Heritage and Digital Humanities
+- AI Native Game & Game Agent
  
 #### ⚡ Things recent ones I'm interested in ⚡ : 
-- LLM Application Development
-- LLM Agents Research
-- AI Native Game Research
+- Animation Fan-made Creation
+- AI Video Production
 
 #### 🌻 I am studying 🌻 :
-- LLM Development Stack
-- Research/Experiment Skills
+- AI Full-stack Development
+- AI & HCI Research/Experiment Skills
+- Multi-Agents Team leadership
 
 #### :computer: Programming languages and tools: 
 <p>
