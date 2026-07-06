@@ -11,7 +11,7 @@ Welcome to my Github page! I am JAdpp and I am currently doing my technical HCI 
 #### 🌱 Things I am currently working on 🌱 :  
 - HCI Topics with Cultural Revitalization and Well-being
 - Digital Culture Heritage and Digital Humanities
-- AI Native Game & Game Agent
+- AI Native Game & Narrative Agent
  
 #### ⚡ Things recent ones I'm interested in ⚡ : 
 - Animation Fan-made Creation
