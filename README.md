@@ -15,7 +15,7 @@ Welcome to my Github page! I am JAdpp and I am currently doing my technical HCI 
  
 #### ⚡ Things recent ones I'm interested in ⚡ : 
 - Animation Fan-made Creation
-- AI Video Production
+- AI Film Production
 
 #### 🌻 I am studying 🌻 :
 - AI Full-stack Development
