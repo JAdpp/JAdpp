@@ -5,7 +5,7 @@
 
 Welcome to my Github page! I am JAdpp and I am currently doing my technical HCI and digital humanities PhD at Wuhan University!  
 
-<img align="right" alt="img" src="https://github.com/JAdpp/JAdpp/blob/main/bloghead.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://raw.githubusercontent.com/JAdpp/JAdpp/main/bloghead.jpg" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on 🌱 :  
@@ -24,7 +24,7 @@ Welcome to my Github page! I am JAdpp and I am currently doing my technical HCI 
 
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=JAdpp&show_icons=true&hide_border=true" />
+	<img width="50%" align="right" src="https://github-readme-stats-salesp07.vercel.app/api?username=JAdpp&show_icons=true&hide_border=true" />
  
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
@@ -35,4 +35,4 @@ Welcome to my Github page! I am JAdpp and I am currently doing my technical HCI 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/d3js/d3js-icon.svg"></code>
 </p>
 
-![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D26814%26project%3D%26in=0)
+![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D26814%26project%3D%26in%3D0)
